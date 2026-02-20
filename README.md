@@ -1,2 +1,2 @@
 # java-implementations
-Documentation of my Java Learning 
+Documentation of my Java learning progression
